@@ -1,0 +1,19 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:heal_powder"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "result":
+    {
+        "item": "cobblemon:revive"
+    }
+}

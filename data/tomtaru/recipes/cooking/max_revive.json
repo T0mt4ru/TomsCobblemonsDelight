@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:revive"
+        },
+        {
+            "item": "cobblemon:revive"
+        },
+        {
+            "item": "cobblemon:revive"
+        },
+        {
+            "item": "cobblemon:vivichoke"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "result":
+    {
+        "item": "cobblemon:max_revive"
+    }
+}
