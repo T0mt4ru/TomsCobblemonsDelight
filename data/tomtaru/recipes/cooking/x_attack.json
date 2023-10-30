@@ -1,0 +1,26 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:pep_up_flower"
+        },
+        {
+            "item": "cobblemon:liechi_berry"
+        },
+        {
+            "item": "cobblemon:liechi_berry"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"minecraft:glass_bottle"
+        },
+    "result":
+    {
+        "item": "cobblemon:x_attack"
+    }
+}

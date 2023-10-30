@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "cobblemon:tamato_berry"
+        },
+        {
+            "item": "cobblemon:tamato_berry"
+        },
+        {
+            "item": "cobblemon:green_mint_leaf"
+        },
+        {
+            "item": "cobblemon:green_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:carbos"
+    }
+}

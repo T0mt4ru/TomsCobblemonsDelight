@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "cobblemon:qualot_berry"
+        },
+        {
+            "item": "cobblemon:qualot_berry"
+        },
+        {
+            "item": "cobblemon:blue_mint_leaf"
+        },
+        {
+            "item": "cobblemon:blue_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:iron"
+    }
+}

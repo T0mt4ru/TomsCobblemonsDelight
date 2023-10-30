@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "cobblemon:pomeg_berry"
+        },
+        {
+            "item": "cobblemon:pomeg_berry"
+        },
+        {
+            "item": "cobblemon:white_mint_leaf"
+        },
+        {
+            "item": "cobblemon:white_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:hp_up"
+    }
+}

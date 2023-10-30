@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "cobblemon:hondew_berry"
+        },
+        {
+            "item": "cobblemon:hondew_berry"
+        },
+        {
+            "item": "cobblemon:cyan_mint_leaf"
+        },
+        {
+            "item": "cobblemon:cyan_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:calcium"
+    }
+}

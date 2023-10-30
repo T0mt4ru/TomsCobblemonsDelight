@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingpinkients":
+    [
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "tag": "forge:raw_fishes"
+        },
+        {
+            "item": "cobblemon:grepa_berry"
+        },
+        {
+            "item": "cobblemon:grepa_berry"
+        },
+        {
+            "item": "cobblemon:pink_mint_leaf"
+        },
+        {
+            "item": "cobblemon:pink_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:zinc"
+    }
+}

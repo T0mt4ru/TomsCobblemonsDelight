@@ -1,0 +1,35 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "tag": "cobblemon:protein_ingredients"
+        },
+        {
+            "tag": "cobblemon:protein_ingredients"
+        },
+        {
+            "item": "cobblemon:kelpsy_berry"
+        },
+        {
+            "item": "cobblemon:kelpsy_berry"
+        },
+        {
+            "item": "cobblemon:red_mint_leaf"
+        },
+        {
+            "item": "cobblemon:red_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "item": "cobblemon:hp_up"
+    }
+}
