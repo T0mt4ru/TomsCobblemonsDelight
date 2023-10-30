@@ -1,0 +1,23 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:medicinal_leek"
+        },
+        {
+            "item": "minecraft:potato"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "item":"minecraft:bowl"
+        },
+    "result":
+    {
+        "item": "cobblemon:leek_and_potato_stew"
+    }
+}

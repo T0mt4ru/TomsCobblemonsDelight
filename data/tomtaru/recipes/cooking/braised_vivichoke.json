@@ -1,0 +1,16 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:vivichoke"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "result":
+    {
+        "item": "cobblemon:braised_vivichoke"
+    }
+}

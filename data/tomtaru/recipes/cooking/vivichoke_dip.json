@@ -1,0 +1,26 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:medicinal_leek"
+        },
+        {
+            "item": "farmersdelight:milk_bottle"
+        },
+        {
+            "tag": "forge:bread"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+    {
+        "item":"minecraft:bowl"
+    },
+    "result":
+    {
+        "item": "cobblemon:vivichoke_dip"
+    }
+}
