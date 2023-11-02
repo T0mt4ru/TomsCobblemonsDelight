@@ -2,7 +2,7 @@
     "type": "farmersdelight:cooking",
     "cookingtime": 200,
     "experience": 1.0,
-    "ingpinkients":
+    "ingredients":
     [
         {
             "tag": "forge:raw_fishes"
