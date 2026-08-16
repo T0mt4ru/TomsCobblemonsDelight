@@ -1,0 +1,40 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/boiled_egg"
+        },
+        {
+            "tag": "c:foods/boiled_egg"
+        },
+        {
+            "type": "neoforge:compound",
+            "children": [
+                {
+                    "item": "farmersdelight:minced_beef"
+                },
+                {
+                    "item": "mynethersdelight:hoglin_sausage"
+                }
+            ]
+        },
+        {
+            "tag": "c:foods/bread"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:scotch_eggs"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

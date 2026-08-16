@@ -1,0 +1,23 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_beef"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:beef_stew"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

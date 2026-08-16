@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values":
+	[
+		"#minecraft:sand",
+		"#minecraft:dirt",
+		"minecraft:farmland",
+		"farmersdelight:rich_soil_farmland",
+    {
+      "id": "mynethersdelight:resurgent_farmland",
+      "required": false
+    },
+    {
+      "id": "mynethersdelight:resurgent_soil",
+      "required": false
+    }
+	]
+}

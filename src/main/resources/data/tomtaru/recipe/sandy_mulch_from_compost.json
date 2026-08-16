@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      "PCP",
+      " P "
+    ],
+    "key": {
+      "X": { "item":"minecraft:sand"},
+      "P": { "item": "minecraft:paper" },
+      "C": { "item": "farmersdelight:organic_compost" }
+    },
+    "result": {
+      "id": "cobblemon:sandy_mulch",
+      "count": 9
+    }
+  }
+  

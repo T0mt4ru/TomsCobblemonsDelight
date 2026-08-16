@@ -1,0 +1,51 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "type": "neoforge:compound",
+            "children": [
+                {
+                    "item": "mynethersdelight:hoglin_loin"
+                },
+                {
+                    "item": "mynethersdelight:hoglin_sausage"
+                },
+                {
+                    "item": "mynethersdelight:roasted_sausage"
+                },
+                {
+                    "item": "mynethersdelight:cooked_loin"
+                }
+            ]
+        },
+        {
+            "tag": "c:crops/potato"
+        },
+        {
+            "tag": "c:crops/carrot"
+        },
+        {
+            "type": "neoforge:compound",
+            "children": [
+                {
+                    "item": "mynethersdelight:bullet_pepper"
+                },
+                {
+                    "item": "mynethersdelight:pepper_powder"
+                }
+            ]
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:spicy_hoglin_stew"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

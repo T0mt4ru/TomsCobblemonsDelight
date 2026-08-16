@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.tomtaru.tmtcobfarm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "tmtcobfarm.refmap.json",
+  "mixins": [
+    "CampfirePotItemMixin",
+    "BlockEntityValidationMixin"
+  ],
+  "client": [
+    "CampfireBlockEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

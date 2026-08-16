@@ -1,0 +1,26 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "mynethersdelight:ghasta"
+        },
+        {
+            "item": "mynethersdelight:ghasta"
+        },
+        {
+            "item": "minecraft:paper"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:fries_ghasta"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

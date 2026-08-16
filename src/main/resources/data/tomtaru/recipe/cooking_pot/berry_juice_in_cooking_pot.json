@@ -1,0 +1,23 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "tag": "cobblemon:berries"
+        },
+        {
+            "tag": "cobblemon:berries"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "id":"minecraft:bowl"
+        },
+    "result":
+    {
+        "id": "cobblemon:berry_juice"
+    }
+}

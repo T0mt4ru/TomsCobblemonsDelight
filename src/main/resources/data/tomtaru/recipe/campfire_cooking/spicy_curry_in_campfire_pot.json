@@ -1,0 +1,49 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_meat"
+        },
+        {
+            "tag": "c:drinks/milk"
+        },
+        {
+            "tag": "mynethersdelight:hot_spice"
+        },
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "type": "neoforge:difference",
+            "base": {
+                "tag": "c:foods/vegetable"
+            },
+            "subtracted": {
+                "item": "minecraft:melon_slice"
+            }
+        },
+        {
+            "type": "neoforge:compound",
+            "children": [
+                {
+                    "item": "minecraft:pumpkin"
+                },
+                {
+                    "item": "farmersdelight:pumpkin_slice"
+                }
+            ]
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:spicy_curry"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

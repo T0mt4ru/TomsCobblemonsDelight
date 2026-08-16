@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "recipe_book_tab": "misc",
+    "ingredients": [
+        {
+            "tag": "cobblemon:berries"
+        },
+        {
+            "tag": "cobblemon:berries"
+        },
+        {
+            "tag": "cobblemon:berries"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:candied_berry",
+        "count": 1
+    }
+}

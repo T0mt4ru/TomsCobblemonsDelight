@@ -1,0 +1,23 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "recipe_book_tab": "misc",
+    "ingredients": [
+        {
+            "item": "cobblemon:hearty_grains"
+        },
+        {
+            "item": "cobblemon:tasty_tail"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "cobblemon:galarica_nuts"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:smoked_tail_curry"
+    }
+}

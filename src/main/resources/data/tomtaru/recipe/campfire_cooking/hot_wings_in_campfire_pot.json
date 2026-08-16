@@ -1,0 +1,26 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_chicken"
+        },
+        {
+            "tag": "mynethersdelight:hot_spice"
+        },
+        {
+            "tag": "c:crops/onion"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:hot_wings"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

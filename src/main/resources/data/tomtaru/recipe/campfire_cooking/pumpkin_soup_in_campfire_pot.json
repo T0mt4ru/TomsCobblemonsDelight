@@ -1,0 +1,27 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "farmersdelight:pumpkin_slice"
+        },
+        {
+            "tag": "c:foods/leafy_green"
+        },
+        {
+            "tag": "c:foods/raw_pork"
+        },
+        {
+            "tag": "c:drinks/milk"
+        }
+,
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:pumpkin_soup"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

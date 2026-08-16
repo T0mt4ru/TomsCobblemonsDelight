@@ -1,0 +1,21 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients": [
+        {
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container": {
+        "id": "minecraft:bowl"
+    },
+    "result": {
+        "id": "minecraft:mushroom_stew",
+        "count": 1
+    }
+}

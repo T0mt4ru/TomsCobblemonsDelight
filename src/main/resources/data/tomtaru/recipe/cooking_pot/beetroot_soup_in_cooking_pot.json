@@ -1,0 +1,33 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients": [
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container": {
+        "id": "minecraft:bowl"
+    },
+    "result": {
+        "id": "minecraft:beetroot_soup",
+        "count": 1
+    }
+}

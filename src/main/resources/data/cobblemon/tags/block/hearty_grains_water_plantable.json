@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values":
+	[
+		"minecraft:farmland",
+		"#minecraft:dirt",
+		"#minecraft:sand",
+		"#c:gravels",
+		"farmersdelight:rich_soil_farmland",
+    {
+      "id": "mynethersdelight:resurgent_soil_farmland",
+      "required": false
+    }
+    ]
+}

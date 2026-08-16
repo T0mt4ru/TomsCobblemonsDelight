@@ -1,0 +1,22 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:fine_remedy"
+        },
+        {
+            "item": "cobblemon:vivichoke"
+        },
+        {
+            "item": "cobblemon:energy_root"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "result":
+    {
+        "id": "cobblemon:superb_remedy"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      "PCP",
+      " P "
+    ],
+    "key": {
+      "X": { "item":"minecraft:mud"},
+      "P": { "item": "minecraft:paper" },
+      "C": { "item": "farmersdelight:organic_compost" }
+    },
+    "result": {
+      "id": "cobblemon:humid_mulch",
+      "count": 9
+    }
+  }
+  

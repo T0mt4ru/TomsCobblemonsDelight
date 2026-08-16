@@ -1,0 +1,18 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients": [
+        {
+            "item": "cobblemon:rawst_berry"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "result": {
+        "id": "cobblemon:burn_heal",
+        "count": 3
+    }
+}

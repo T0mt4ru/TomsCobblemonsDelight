@@ -1,0 +1,26 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_cod"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:baked_cod_stew"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

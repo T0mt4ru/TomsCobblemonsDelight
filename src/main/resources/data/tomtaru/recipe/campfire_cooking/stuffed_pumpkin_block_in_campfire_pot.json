@@ -1,0 +1,38 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "tag": "c:foods/berry"
+        },
+        {
+            "type": "neoforge:difference",
+            "base": {
+                "tag": "c:foods/vegetable"
+            },
+            "subtracted": {
+                "item": "minecraft:melon_slice"
+            }
+        },
+        {
+            "item": "minecraft:pumpkin"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:stuffed_pumpkin_block"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

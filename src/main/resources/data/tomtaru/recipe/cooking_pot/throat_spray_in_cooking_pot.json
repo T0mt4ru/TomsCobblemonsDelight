@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {"item": "cobblemon:petaya_berry"},
+        {"item": "cobblemon:petaya_berry"},
+        {"item": "cobblemon:cyan_mint_leaf"},
+        {"item": "cobblemon:cyan_mint_leaf"}
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {"id":"cobblemon:medicinal_brew"},
+    "result":
+    {"id": "cobblemon:throat_spray"}
+}

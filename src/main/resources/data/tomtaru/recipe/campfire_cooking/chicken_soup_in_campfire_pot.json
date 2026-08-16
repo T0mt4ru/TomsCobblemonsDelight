@@ -1,0 +1,32 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/raw_chicken"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:foods/leafy_green"
+        },
+        {
+            "type": "neoforge:difference",
+            "base": {
+                "tag": "c:foods/vegetable"
+            },
+            "subtracted": {
+                "item": "minecraft:melon_slice"
+            }
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:chicken_soup"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

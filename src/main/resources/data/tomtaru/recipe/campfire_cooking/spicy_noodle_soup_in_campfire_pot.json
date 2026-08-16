@@ -1,0 +1,32 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/rice_pasta"
+        },
+        {
+            "tag": "c:foods/cooked_egg"
+        },
+        {
+            "tag": "mynethersdelight:hot_spice"
+        },
+        {
+            "tag": "c:foods/raw_hoglin"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:spicy_noodle_soup"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

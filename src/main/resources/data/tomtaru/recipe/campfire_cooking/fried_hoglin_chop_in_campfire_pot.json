@@ -1,0 +1,36 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "mynethersdelight:hoglin_loin"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "tag": "c:drinks/milk"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "item": "mynethersdelight:bullet_pepper"
+        }
+,
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:fried_hoglin_chop"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "tmtcobfarm:block/stove_campfire_red",
+  "overrides": [
+    { "predicate": { "tmtcobfarm:color": 0.0 }, "model": "tmtcobfarm:block/stove_campfire_red" },
+    { "predicate": { "tmtcobfarm:color": 1.0 }, "model": "tmtcobfarm:block/stove_campfire_blue" },
+    { "predicate": { "tmtcobfarm:color": 2.0 }, "model": "tmtcobfarm:block/stove_campfire_green" },
+    { "predicate": { "tmtcobfarm:color": 3.0 }, "model": "tmtcobfarm:block/stove_campfire_yellow" },
+    { "predicate": { "tmtcobfarm:color": 4.0 }, "model": "tmtcobfarm:block/stove_campfire_pink" },
+    { "predicate": { "tmtcobfarm:color": 5.0 }, "model": "tmtcobfarm:block/stove_campfire_white" },
+    { "predicate": { "tmtcobfarm:color": 6.0 }, "model": "tmtcobfarm:block/stove_campfire_black" }
+  ]
+}

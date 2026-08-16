@@ -1,0 +1,32 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "type": "neoforge:difference",
+            "base": {
+                "tag": "c:foods/vegetable"
+            },
+            "subtracted": {
+                "item": "minecraft:melon_slice"
+            }
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:ratatouille"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

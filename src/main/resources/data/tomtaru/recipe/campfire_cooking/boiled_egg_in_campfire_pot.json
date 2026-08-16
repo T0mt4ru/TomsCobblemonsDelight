@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "mynethersdelight:boiled_egg_candidate"
+        },
+        {
+            "tag": "mynethersdelight:boiled_egg_candidate"
+        },
+        {
+            "tag": "mynethersdelight:boiled_egg_candidate"
+        },
+        {
+            "tag": "mynethersdelight:boiled_egg_candidate"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:boiled_egg",
+        "count": 4
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

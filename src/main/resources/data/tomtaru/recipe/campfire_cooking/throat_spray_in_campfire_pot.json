@@ -1,0 +1,16 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "medicines",
+    "ingredients":
+    [
+        {"item": "cobblemon:petaya_berry"}, 
+        {"item": "cobblemon:petaya_berry"},
+        {"item": "cobblemon:cyan_mint_leaf"},
+        {"item": "cobblemon:cyan_mint_leaf"},
+        {"item": "cobblemon:medicinal_brew"}
+    ],
+    "result": 
+    {"id": "cobblemon:throat_spray"},
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

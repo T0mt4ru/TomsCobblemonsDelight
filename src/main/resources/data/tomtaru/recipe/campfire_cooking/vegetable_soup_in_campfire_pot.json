@@ -1,0 +1,26 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "tag": "c:foods/leafy_green"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:vegetable_soup"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

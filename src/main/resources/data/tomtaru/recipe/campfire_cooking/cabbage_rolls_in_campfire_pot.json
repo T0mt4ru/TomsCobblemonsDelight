@@ -1,0 +1,17 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:crops/cabbage"
+        },
+        {
+            "tag": "farmersdelight:cabbage_roll_ingredients"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:cabbage_rolls"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

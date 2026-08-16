@@ -1,0 +1,27 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "tag": "c:foods/raw_meat"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:burnt_roll",
+        "count": 2
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

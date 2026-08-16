@@ -1,0 +1,26 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+            "tag": "c:eggs"
+        },
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "tag": "c:crops/onion"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:fried_rice"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

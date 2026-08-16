@@ -1,0 +1,46 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mynethersdelight"
+        }
+    ],
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "mynethersdelight:strider_slice"
+        },
+        {
+            "item": "minecraft:crimson_fungus"
+        },
+        {
+            "item": "minecraft:warped_fungus"
+        },
+        {
+            "type": "neoforge:compound",
+            "children": [
+                {
+                    "item": "minecraft:warped_fungus"
+                },
+                {
+                    "item": "minecraft:crimson_fungus"
+                },
+                {
+                    "item": "minecraft:red_mushroom"
+                },
+                {
+                    "item": "minecraft:brown_mushroom"
+                }
+            ]
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "mynethersdelight:strider_with_grilled_fungus"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

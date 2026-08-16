@@ -1,0 +1,17 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:crops/rice"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:cooked_rice"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

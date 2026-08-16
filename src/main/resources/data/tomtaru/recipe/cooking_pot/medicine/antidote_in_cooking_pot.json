@@ -1,0 +1,17 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {"item": "cobblemon:pecha_berry"}
+    ],
+    "recipe_book_tab": "misc",
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "result": {
+        "id": "cobblemon:antidote",
+        "count": 3
+    }
+}

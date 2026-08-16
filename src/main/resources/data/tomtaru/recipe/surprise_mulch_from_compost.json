@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X ",
+      "PCP",
+      " P "
+    ],
+    "key": {
+      "X": { "item":"minecraft:glistering_melon_slice"},
+      "P": { "item": "minecraft:paper" },
+      "C": { "item": "farmersdelight:organic_compost" }
+    },
+    "result": {
+      "id": "cobblemon:surprise_mulch",
+      "count": 9
+    }
+  }
+  

@@ -1,0 +1,36 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:pep_up_flower"
+        },
+        {
+            "item": "cobblemon:pep_up_flower"
+        },
+        {
+            "item": "cobblemon:hopo_berry"
+        },
+        {
+            "item": "cobblemon:hopo_berry"
+        },
+        {
+            "item": "cobblemon:energy_root"
+        },
+        {
+            "item": "cobblemon:energy_root"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "id":"cobblemon:pp_up"
+        },
+    "result":
+    {
+        "id": "cobblemon:pp_max",
+        "count": 3
+    }
+}

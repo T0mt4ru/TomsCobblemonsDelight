@@ -1,0 +1,23 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "recipe_book_tab": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "result": {
+        "id": "cobblemon:old_gateau"
+    }
+}

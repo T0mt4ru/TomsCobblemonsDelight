@@ -1,0 +1,36 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "tag": "c:foods/safe_raw_fish"
+        },
+        {
+            "tag": "c:foods/safe_raw_fish"
+        },
+        {
+            "item": "cobblemon:grepa_berry"
+        },
+        {
+            "item": "cobblemon:grepa_berry"
+        },
+        {
+            "item": "cobblemon:pink_mint_leaf"
+        },
+        {
+            "item": "cobblemon:pink_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "id":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "id": "cobblemon:zinc",
+        "count": 3
+    }
+}

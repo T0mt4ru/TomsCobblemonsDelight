@@ -1,0 +1,35 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "tag": "c:foods/pasta"
+        },
+        {
+            "tag": "c:foods/leafy_green"
+        },
+        {
+            "type": "neoforge:difference",
+            "base": {
+                "tag": "c:foods/vegetable"
+            },
+            "subtracted": {
+                "item": "minecraft:melon_slice"
+            }
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:vegetable_noodles"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

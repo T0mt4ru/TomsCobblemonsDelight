@@ -1,0 +1,25 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "item": "cobblemon:remedy"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        },
+        {
+            "item": "minecraft:sweet_berries"
+        },
+        {
+            "item": "cobblemon:pep_up_flower"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "result":
+    {
+        "id": "cobblemon:fine_remedy"
+    }
+}

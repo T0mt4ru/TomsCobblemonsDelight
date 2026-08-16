@@ -1,0 +1,36 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients":
+    [
+        {
+            "tag": "c:foods/raw_meat"
+        },
+        {
+            "tag": "c:foods/raw_meat"
+        },
+        {
+            "item": "cobblemon:kelpsy_berry"
+        },
+        {
+            "item": "cobblemon:kelpsy_berry"
+        },
+        {
+            "item": "cobblemon:red_mint_leaf"
+        },
+        {
+            "item": "cobblemon:red_mint_leaf"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container":
+        {
+            "id":"cobblemon:medicinal_brew"
+        },
+    "result":
+    {
+        "id": "cobblemon:protein",
+        "count": 3
+    }
+}

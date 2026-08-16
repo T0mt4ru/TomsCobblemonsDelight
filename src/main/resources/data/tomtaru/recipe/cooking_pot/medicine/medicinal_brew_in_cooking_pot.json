@@ -1,0 +1,27 @@
+{
+    "type": "farmersdelight:cooking",
+    "cookingtime": 200,
+    "experience": 1.0,
+    "ingredients": [
+        {
+            "item": "cobblemon:medicinal_leek"
+        },
+        {
+        	"item": "minecraft:potion"
+        },
+        {
+        	"item": "minecraft:potion"
+        },
+        {
+        	"item": "minecraft:potion"
+        }
+    ],
+    "recipe_book_tab": "misc",
+    "container": {
+        "id": "minecraft:glass_bottle"
+    },
+    "result": {
+        "id": "cobblemon:medicinal_brew",
+        "count": 3
+    }
+}

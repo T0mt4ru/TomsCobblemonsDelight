@@ -1,0 +1,26 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "foods",
+    "ingredients": [
+        {
+            "tag": "c:foods/safe_raw_fish"
+        },
+        {
+            "tag": "c:foods/pasta"
+        },
+        {
+            "tag": "c:crops/tomato"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+        	"item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "id": "farmersdelight:squid_ink_pasta"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}
