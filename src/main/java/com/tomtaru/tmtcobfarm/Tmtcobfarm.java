@@ -31,7 +31,8 @@ public class Tmtcobfarm {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-        LOGGER.info("Loading Tomtaru's Cobblemon & Farmer's Delight Tweaks");
+        LOGGER.info("Loaded Tomtaru's Cobblemon & Farmer's Delight Tweaks");
+        LOGGER.info("Time to put that Campfire Pot on a Stove!");
 
         event.enqueueWork(() -> {
             try {
